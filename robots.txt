@@ -5,6 +5,7 @@ Allow:  /ershou
 Allow: /$
 Disallow:  /product/
 Disallow:  /
+Disallow: /test
 
 User-Agent:  Googlebot
 Allow:  /article
